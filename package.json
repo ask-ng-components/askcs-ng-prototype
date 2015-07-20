@@ -1,0 +1,31 @@
+{
+  "name": "askcs-ng-prototype",
+  "version": "0.1.0",
+  "description": "",
+  "main": "prototype.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askcs-ng-components/askcs-ng-prototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askcs-ng-components/askcs-ng-prototype/issues"
+  },
+  "homepage": "https://github.com/askcs-ng-components/askcs-ng-prototype#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-angular-filesort": "^1.1.1",
+    "gulp-angular-templatecache": "^1.7.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-iife": "0.0.7",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-html": "^1.0.3",
+    "gulp-ng-annotate": "^1.0.0"
+  }
+}

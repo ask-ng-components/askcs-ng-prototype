@@ -1,0 +1,23 @@
+{
+  "name": "askcs-ng-prototype",
+  "version": "0.1.0",
+  "homepage": "https://github.com/askcs-ng-components/askcs-ng-prototype",
+  "authors": [
+    "Jeremy Granadillo <akakitsu@gmail.com>"
+  ],
+  "main": [
+    "dist/askcs.component.prototype.bundle.js",
+    "dist/prototype.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2"
+  }
+}
